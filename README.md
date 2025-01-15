@@ -1,6 +1,6 @@
 # Static Portfolio Website
 
-This is a simple, responsive static portfolio website created as a part of a learning journey in Web Development. The project is designed to help understand the fundamentals of HTML and CSS while building a functional and visually appealing personal portfolio.
+This is a simple, responsive static portfolio website created as a part of a learning journey in Web Development. The project is designed to help understanding the fundamentals of HTML and CSS while building a functional and visually appealing personal portfolio.
 
 ## Purpose
 The primary goal of this project is educational:
@@ -26,4 +26,4 @@ This project is for learning purposes only, and may not include advanced feature
 ## How to use
 1. Clone this repository:
    ```bash
-      git clone https://github.com/MuhammadManzoorMurshed/Static-Portfolio-Website
+      git clone https://github.com/MuhammadManzoorMurshed/Static-Portfolio-Website.git
