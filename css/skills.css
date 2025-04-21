@@ -1,0 +1,77 @@
+* {
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eef1f5;
+    color: #333;
+}
+
+header {
+    background-color: #000;
+    color: white;
+    padding: 20px;
+    height: 100px;
+}
+
+header nav {
+    text-align: right;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header nav a {
+    color: burlywood;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    color: #00bcd4;
+}
+
+.container {
+    max-width: 800px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.skills-section h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.skill label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.progress-bar {
+    background-color: #ddd;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.progress {
+    background-color: #00bcd4;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: right;
+    font-size: 14px;
+}
